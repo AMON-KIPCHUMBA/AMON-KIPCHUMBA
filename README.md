@@ -35,7 +35,7 @@ I'm a web and Android developer currently studying at **eMobilis Technical Train
 
 ### 📫 How to reach me:
 - **Email** amoncomic@gmail.com
-- **LinkedIn**: [linkedin.com/in/your-link](https://linkedin.com/in/https://www.linkedin.com/in/amon-kipchumba-774419353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn**: (https://linkedin.com/in/https://www.linkedin.com/in/amon-kipchumba-774419353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **GitHub**: [github.com/AMON-KIPCHUMBA](https://github.com/AMON-KIPCHUMBA)
 
 ---
